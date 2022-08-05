@@ -132,4 +132,4 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # STRIPE API KEY
-STRIPE_API_KEY = "sk_test_51LOSGISDrg6Wv3Ufgxj4VqaaajuLC3257PAfa9hWqC3o4uDm7XtMblLw1uKFpodSok1sP06R3KzDJbn1MYg6tylJ00uuyq5uNr"
+STRIPE_API_KEY = "<API Key>"
